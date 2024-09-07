@@ -21,6 +21,6 @@ The forecasting process included the following steps:
 
 ### Tools and Software 
 The analysis and forecasting were performed using Python, leveraging libraries such as pandas for data manipulation, statsmodels for statistical modeling, and matplotlib for data visualization. These tools provided a robust and reproducible framework for assessing the renewable energy potential in Kazakhstan.
-By combining these methodologies, the study aims to provide a detailed and accurate assessment of Kazakhstan's renewable energy resources, supporting informed decision-making and strategic planning for future energy developments.
+By combining these methodologies, the study aims to provide a detailed and accurate assessment of Kazakhstan's renewable energy resources, supporting informed decision-making and strategic planning for future energy developments. Here you will find the link of code for this project https://drive.google.com/file/d/1seenMCxHHI0_NTR4QId10XW1NJFuQcXd/view?usp=sharing
 
 
